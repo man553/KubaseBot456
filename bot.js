@@ -2,4 +2,4 @@ onst Discord = require("discord.js");
 const client = new Discord.Client();
 const Prefix = "/"
 
-client.login('MzA3NjMwMTY4MDUzMTIxMDI0.DMQL9g.oW0uD161N_-sKCHNW1dS1Ly3Sqo');
+client.login('NTMzMzE2MjA1MDA0NTg3MDA4.XcRTGw.izUNtoDIkzQNRTZsr7nh_MLf_q8');
